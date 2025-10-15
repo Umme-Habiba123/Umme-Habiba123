@@ -34,7 +34,7 @@ I love crafting beautiful, efficient, and scalable web applications.
 
 | Project | Live Link | Tech Stack |
 |----------|------------|-------------|
-| 🚧 Project 1 | [Live Site](#) | React, Tailwind, Firebase |
+| 🚧 Project 1 | [https://inspiring-piroshki-a70fe3.netlify.app/] | React, Tailwind, Firebase |
 | 🚧 Project 2 | [Live Site](#) | MERN Stack |
 | 🚧 Project 3 | [Live Site](#) | Next.js, MongoDB |
 
