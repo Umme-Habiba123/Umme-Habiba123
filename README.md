@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://i.ibb.co/0GyMdhT/github-banner.png](https://i.ibb.co.com/BKHs7NRb/64e4bb21571af3c19c26b3a2-github.webp)" alt="Umme Habiba Banner" width="100%" />
+  <img src="https://i.ibb.co.com/BKHs7NRb/64e4bb21571af3c19c26b3a2-github.webp" alt="Umme Habiba Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hey! Nice to see you.</h1>
