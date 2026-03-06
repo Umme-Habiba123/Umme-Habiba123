@@ -58,17 +58,10 @@ I love crafting beautiful, efficient, and scalable web applications.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=UmmeHabiba&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=UmmeHabiba&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmmeHabiba&layout=compact&theme=tokyonight" />
-</p>
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Fahim20223&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Fahim20223&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim20223&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 Achievements
 <p align="center">
