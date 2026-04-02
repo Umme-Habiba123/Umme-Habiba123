@@ -59,7 +59,7 @@ I love crafting beautiful, efficient, and scalable web applications.
 ---
 
 # 📊 GitHub Stats:
-(https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
 
 
 ---
