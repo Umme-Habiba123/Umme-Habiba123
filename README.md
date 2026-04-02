@@ -59,7 +59,8 @@ I love crafting beautiful, efficient, and scalable web applications.
 ---
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Umme-Habiba123&show_icons=true&theme=radical" alt="GitHub Stats" />
+![](https://github-readme-stats.vercel.app/api?username=Umme-Habiba123&show_icons=true&theme=radical&count_private=true)
+
 
 ---
 
