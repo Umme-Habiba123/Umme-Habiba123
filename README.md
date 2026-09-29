@@ -11,15 +11,7 @@ I love crafting beautiful, efficient, and scalable web applications.
 
 ---
 
-## 🔥 My Stats :
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Umme-Habiba123&theme=github_dark"
-    width="400"
-  />
-  
-</p>
 
 ---
 
@@ -52,15 +44,16 @@ I love crafting beautiful, efficient, and scalable web applications.
 ---
 
 
-## 📊 Language Usage
 
-| Language | Percentage |
-|----------|-----------:|
-| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-0%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| Python | ![Python](https://img.shields.io/badge/Python-0%25-3776AB?style=flat-square&logo=python&logoColor=white) |
-| HTML | ![HTML](https://img.shields.io/badge/HTML-0%25-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| CSS | ![CSS](https://img.shields.io/badge/CSS-0%25-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| TypeScript | ![TypeScript](https://img.shields.io/badge/TypeScript-0%25-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+## 🔥 My Stats :
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Umme-Habiba123&theme=github_dark"
+    width="400"
+  />
+  
+</p>
 
 
 ----
