@@ -62,19 +62,15 @@ I love crafting beautiful, efficient, and scalable web applications.
 ---
 
 
-## 📊 Tech Stack Usage
+## 📊 Language Usage
 
-| Technology | Usage |
-|-----------|-------|
-| HTML5 | 20% |
-| CSS3 | 15% |
-| JavaScript | 20% |
-| React | 15% |
-| Next.js | 10% |
-| Tailwind CSS | 5% |
-| Bootstrap | 5% |
-| Python | 5% |
-| Django | 5% |
+| Language | Percentage |
+|----------|-----------:|
+| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-0%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| Python | ![Python](https://img.shields.io/badge/Python-0%25-3776AB?style=flat-square&logo=python&logoColor=white) |
+| HTML | ![HTML](https://img.shields.io/badge/HTML-0%25-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| CSS | ![CSS](https://img.shields.io/badge/CSS-0%25-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| TypeScript | ![TypeScript](https://img.shields.io/badge/TypeScript-0%25-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
 
 ----
