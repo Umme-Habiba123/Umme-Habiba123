@@ -61,6 +61,24 @@ I love crafting beautiful, efficient, and scalable web applications.
 
 ---
 
+
+## 📊 Tech Stack Usage
+
+| Technology | Usage |
+|-----------|-------|
+| HTML5 | 20% |
+| CSS3 | 15% |
+| JavaScript | 20% |
+| React | 15% |
+| Next.js | 10% |
+| Tailwind CSS | 5% |
+| Bootstrap | 5% |
+| Python | 5% |
+| Django | 5% |
+
+
+----
+
 # 📊 GitHub Stats:
 <p align="center">
   <!-- General Stats -->
