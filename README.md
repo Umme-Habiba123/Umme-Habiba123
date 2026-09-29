@@ -19,10 +19,6 @@ I love crafting beautiful, efficient, and scalable web applications.
     width="400"
   />
   
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Umme-Habiba123&theme=github_dark"
-    width="400"
-  />
 </p>
 
 ---
